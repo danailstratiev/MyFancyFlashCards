@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFancyFlashcards", "MyFancyFlashcards\MyFancyFlashcards.csproj", "{056990F7-ADFD-4B7E-8B6B-C71321BE1B9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFancyFlashcards", "MyFancyFlashcards\MyFancyFlashcards.csproj", "{056990F7-ADFD-4B7E-8B6B-C71321BE1B9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFancyFlashcards.Models", "MyFancyFlashcards.Models\MyFancyFlashcards.Models.csproj", "{FA1E1EA7-61A1-4985-BAD0-5D9A9F907BD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{056990F7-ADFD-4B7E-8B6B-C71321BE1B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{056990F7-ADFD-4B7E-8B6B-C71321BE1B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{056990F7-ADFD-4B7E-8B6B-C71321BE1B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1E1EA7-61A1-4985-BAD0-5D9A9F907BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1E1EA7-61A1-4985-BAD0-5D9A9F907BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1E1EA7-61A1-4985-BAD0-5D9A9F907BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1E1EA7-61A1-4985-BAD0-5D9A9F907BD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
