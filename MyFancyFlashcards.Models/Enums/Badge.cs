@@ -7,7 +7,7 @@ namespace MyFancyFlashcards.Models.Enums
    public enum Badge
     {
         Rookie = 1,
-        Underdig = 2,
+        Underdog = 2,
         Experienced = 3,
         Master = 4
     }
